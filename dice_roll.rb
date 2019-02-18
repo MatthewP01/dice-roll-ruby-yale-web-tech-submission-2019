@@ -5,3 +5,9 @@
 def roll
   rand(1..6)
 end
+
+# Alternatively, you could use an arrays
+# def roll
+#   num = [1,2,3,4,5,6]
+#   rand.num
+# end
